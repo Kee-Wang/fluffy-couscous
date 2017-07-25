@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Kee-Wang/fluffy-couscous.svg?branch=master)](https://travis-ci.org/Kee-Wang/fluffy-couscous)
+
 # fluffy-couscous
 
 * Creat a folder and put `__init__.py` and `*.py` inside.
