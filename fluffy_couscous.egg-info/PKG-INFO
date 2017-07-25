@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: fluffy-couscous
+Version: 0.1.1
+Summary: A starting template for Python programs
+Home-page: https://github.com/Kee-Wang/fluffy-couscous
+Author: Kee Wang
+Author-email: kee.wang@emory.edu
+License: BSD-3C
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
