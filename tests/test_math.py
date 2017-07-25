@@ -14,3 +14,8 @@ import pytest
 def test_add():
     assert fc.math.add(5,2) == 7
     assert fc.math.add(2,5) == 7
+
+
+def test_mult():
+    assert fc.math.mult(5,2) == 10
+    assert fc.math.mult(2,5) == 10
