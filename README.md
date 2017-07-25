@@ -5,5 +5,10 @@
 * Creat a folder and put `__init__.py` and `*.py` inside.
 * Go back to parent folder in order to import module.
 
-###Install instructions
+### Install instructions
 `pip install -e .`
+
+### To import modules
+`import fluffy_couscous as fc`
+`from fluffy_couscous import math`
+
